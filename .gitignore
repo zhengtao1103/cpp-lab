@@ -1,0 +1,5 @@
+*.dSYM
+hello1
+hello
+*.o
+*.out
